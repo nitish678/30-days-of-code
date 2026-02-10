@@ -2,5 +2,46 @@
   "start_date": "2026-02-09",
   "github_username": "nitish678",
   "repo_name": "30-days-of-code",
-  "commits": []
+  "commits": [
+    {
+      "day": 0,
+      "language": "c",
+      "topic": "socket_client",
+      "filename": "socket_client.c",
+      "date": "2026-02-10",
+      "difficulty": "medium"
+    },
+    {
+      "day": 1,
+      "language": "c",
+      "topic": "blockchain_demo",
+      "filename": "blockchain_demo.c",
+      "date": "2026-02-10",
+      "difficulty": "medium"
+    },
+    {
+      "day": 1,
+      "language": "python",
+      "topic": "blockchain_explorer",
+      "filename": "blockchain_explorer.py",
+      "date": "2026-02-10",
+      "difficulty": "medium"
+    },
+    {
+      "day": 1,
+      "language": "nodejs",
+      "topic": "defi_dashboard",
+      "filename": "defi_dashboard.js",
+      "date": "2026-02-10",
+      "difficulty": "medium"
+    },
+    {
+      "day": 1,
+      "language": "cpp",
+      "topic": "erc20_interface",
+      "filename": "erc20_interface.cpp",
+      "date": "2026-02-10",
+      "difficulty": "hard"
+    }
+  ]
 }
